@@ -1,2 +1,2 @@
 # probe
-Aixo es una prova
+Això és una prova
